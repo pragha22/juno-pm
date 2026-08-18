@@ -147,7 +147,7 @@ https://rocketship-prd-new.lovable.app/
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+_The one flow this prototype proves.__
 
 _____
 
