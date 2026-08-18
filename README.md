@@ -1,6 +1,6 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+> Juno PM is an AI-powered Associate PM tool that synthesizes messy, unstructured user feedback into structured insights and evidence-backed PRD briefs to save product managers from context-switching.
 
 _Praghadeesh Sridharan · AI Product Manager · August 18th
 
